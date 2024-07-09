@@ -1,1 +1,1 @@
-# HNG
+#### During my internship at the HNG program, I engage in a series of intensive data analysis projects that hone my analytical skills and deepen my understanding of data science methodologies. I work on real-world problems, leveraging various data analysis tools and techniques to derive actionable insights and contribute to meaningful projects.
